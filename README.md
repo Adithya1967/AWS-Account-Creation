@@ -1,8 +1,8 @@
 ## CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
 
-REG NUMBER:212224040013
+REG NUMBER: 212224040013
 
-NAME:ADITHYA SIVAKUMAR
+NAME: ADITHYA SIVAKUMAR
 
 ## AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
